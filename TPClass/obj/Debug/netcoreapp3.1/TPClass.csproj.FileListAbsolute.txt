@@ -1,0 +1,14 @@
+C:\Users\Wallon\source\repos\TPClass\TPClass\bin\Debug\netcoreapp3.1\TPClass.exe
+C:\Users\Wallon\source\repos\TPClass\TPClass\bin\Debug\netcoreapp3.1\TPClass.deps.json
+C:\Users\Wallon\source\repos\TPClass\TPClass\bin\Debug\netcoreapp3.1\TPClass.runtimeconfig.json
+C:\Users\Wallon\source\repos\TPClass\TPClass\bin\Debug\netcoreapp3.1\TPClass.runtimeconfig.dev.json
+C:\Users\Wallon\source\repos\TPClass\TPClass\bin\Debug\netcoreapp3.1\TPClass.dll
+C:\Users\Wallon\source\repos\TPClass\TPClass\bin\Debug\netcoreapp3.1\TPClass.pdb
+C:\Users\Wallon\source\repos\TPClass\TPClass\obj\Debug\netcoreapp3.1\TPClass.csproj.AssemblyReference.cache
+C:\Users\Wallon\source\repos\TPClass\TPClass\obj\Debug\netcoreapp3.1\TPClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallon\source\repos\TPClass\TPClass\obj\Debug\netcoreapp3.1\TPClass.AssemblyInfoInputs.cache
+C:\Users\Wallon\source\repos\TPClass\TPClass\obj\Debug\netcoreapp3.1\TPClass.AssemblyInfo.cs
+C:\Users\Wallon\source\repos\TPClass\TPClass\obj\Debug\netcoreapp3.1\TPClass.csproj.CoreCompileInputs.cache
+C:\Users\Wallon\source\repos\TPClass\TPClass\obj\Debug\netcoreapp3.1\TPClass.dll
+C:\Users\Wallon\source\repos\TPClass\TPClass\obj\Debug\netcoreapp3.1\TPClass.pdb
+C:\Users\Wallon\source\repos\TPClass\TPClass\obj\Debug\netcoreapp3.1\TPClass.genruntimeconfig.cache
